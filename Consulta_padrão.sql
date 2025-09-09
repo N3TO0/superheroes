@@ -1,2 +1,5 @@
 -- SQLite
-SELECT * FROM gender
+
+SELECT * FROM superhero;
+
+
