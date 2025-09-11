@@ -1,5 +1,6 @@
 -- SQLite
 
-SELECT * FROM superhero;
+SELECT full_name, superhero_name FROM superhero;
+
 
 
