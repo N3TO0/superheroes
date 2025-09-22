@@ -1,6 +1,0 @@
--- SQLite
-
-SELECT * FROM superhero;
-
-
-
